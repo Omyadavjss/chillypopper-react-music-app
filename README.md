@@ -85,12 +85,7 @@ This was a weekend project that I created while learning the popular javascript 
 
 Follow these steps to install the project on your local system.
 
-### Prerequisites
-
-Clone the repository
-
-```sh
-git clone https://github.com/priyanshu-bharti/chillypopper-react.git
+###Prerequisit
 ```
 
 ### Installation
@@ -134,7 +129,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Priyanshu's Email - [priyanshub25@gmail.com](mailto:priyanshub25@gmail.com?subject=Github%20%7C%20%3CPlease%20enter%20your%20subject%20here%3E&body=%3CPlease%20Write%20your%20message%20here.%3E) - Click on this link to quickly send an email.
 
 Link: [Live Demo of the Web App](https://chillypopper.netlify.app)
 
