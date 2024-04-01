@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/priyanshu-bharti/chillypopper-react">
+  <a href:"https://github.com/Omyadavjss/chillypopper-react-music-app.git">
     <img src="icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,9 +31,9 @@
     <br />
     <a href="https://chillypopper.netlify.app">View Demo</a>
     ·
-    <a href="https://github.com/priyanshu-bharti/chillypopper-react/issues">Report Bug</a>
+    <a href="https://github.com/Omyadavjss/chillypopper-react-music-app.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/priyanshu-bharti/chillypopper-react/issues">Request Feature</a>
+    <a href="https://github.com/Omyadavjss/chillypopper-react-music-app.git/issues">Request Feature</a>
   </p>
 </div>
 
